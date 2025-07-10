@@ -1,49 +1,48 @@
-# My_Resumes
-Welcome to my Resumes Repository! This repository contains my professionally tailored resumes for different roles based on my diverse skill set and career aspirations.
+# 📄 Resumes Repository
 
-💼 Available Resumes
+Welcome to my **Resumes Repository**!  
+This repository contains my professionally tailored resumes for different roles based on my diverse skill set and career aspirations.
 
-Resume
+---
 
-Role
+## 💼 Available Resumes
 
-Technologies & Focus
+| Resume                                | Role                                | Technologies & Focus                                                |
+|---------------------------------------|--------------------------------------|---------------------------------------------------------------------|
+| **AI/ML Developer Resume**            | AI/ML Intern, Data Scientist, ML Engineer | Python, Machine Learning, Deep Learning, Data Science, AI Projects   |
+| **Full Stack Developer Resume (MERN)**| Frontend/Backend Developer, Full Stack Intern | React.js, Node.js, Express.js, MongoDB, JavaScript, REST APIs        |
+| **Software Development Engineer (SDE) Resume** | SDE Intern, Software Engineer         | Python, System Design, Backend Development, Problem-Solving ,Computer Networking, OOP  |
 
-AI/ML Developer Resume
+---
 
-AI/ML Intern, Data Scientist, ML Engineer
+## 🚀 How to Use
 
-Python, Machine Learning, Deep Learning, Data Science, AI Projects
+Download the resume that fits the role you are applying for.  
+Each resume highlights the relevant skills, technologies, and projects tailored to that specific career path.
 
-Full Stack Developer Resume (MERN)
+- 📂 `AI_ML_Resume.pdf`
+- 📂 `FullStack_Developer_Resume.pdf`
+- 📂 `SDE_Resume.pdf`
 
-Frontend/Backend Developer, Full Stack Intern
+---
 
-React.js, Node.js, Express.js, MongoDB, JavaScript, REST APIs
+## 📌 About Me
 
-Software Development Engineer (SDE) Resume
+I’m **Shivani Shewale**, a passionate Computer Science student with a strong foundation in:
 
-SDE Intern, Software Engineer
+- 🔹 **Full Stack Web Development:** React.js, MERN Stack , Front-end Development
+- 🔹 **Artificial Intelligence & Machine Learning:** Python, TensorFlow, Scikit-learn, Deep Learning
+- 🔹 **Software Development & System Design:** Python, REST APIs, Problem-Solving, Computer Networking
 
-Java, Spring Boot, System Design, Backend Development, Problem-Solving
+I am always eager to learn, build, and contribute to innovative projects that solve real-world problems.
 
-📌 About Me
+---
 
-I’m Shivani Shewale, a passionate Computer Science student with a strong foundation in:
+## 📫 Contact
 
-🔹 Full Stack Web Development (React.js, Spring Boot, MERN)
+- **LinkedIn:** [Shivani Shewale]((https://www.linkedin.com/in/shivani-shewale-674384352/))
+- **Email:** work.shivanishewale@gmail.com
 
-🔹 Artificial Intelligence & Machine Learning (Python, TensorFlow, Scikit-learn)
+---
 
-🔹 Software Development & System Design (Java, REST APIs)
-
-Always eager to learn, build, and contribute to innovative projects.
-
-📫 Contact
-
-LinkedIn: Shivani Shewale
-
-Email: shivani.shewale@example.com
-
-Thank you for visiting my repository!
-
+*Thank you for visiting my repository!*
